@@ -15,3 +15,20 @@ I am eager to learn new skills.
 * SQL
 * Selenium
 * HTML/CSS
+
+### Code example:
+```Python
+# Python "Number of distinc elements"
+a = [int(i) for i in input().split()]
+b = []
+for i in a:
+    if i not in b:
+        b.append(i)
+print(len(b))
+```
+
+### Education:
+INHA University in Tashkent department of Computer Science and Engineering
+
+### English:
+IELTS score 7.0
