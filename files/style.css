@@ -1,0 +1,20 @@
+body {
+    width: 1024px;
+    margin: auto;
+}
+
+main {
+    background-color: #D7DBDD;
+    padding: 20px;
+}
+
+h1, h2 {
+    font-family: Arial;
+    color: #515A5A;
+}
+
+section {
+    color: #626567;
+    padding-bottom: 5px;
+    font-size: 18px;
+}
